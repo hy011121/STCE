@@ -1,0 +1,4 @@
+Use proxy Type : HTTP/HTTPS
+"Transparent Proxy, Anonymous Proxy, or Elite Proxy" These proxies can help keep you anonymous when making requests.
+While you may not need a very secure proxy if your primary purpose is testing or automation, make sure the proxy you use does not leak your personal information.
+Proxy Format: The common format for a proxy in a file is IP:Port, such as 8.218.149.193:80 or 69.163.161.118:20243.
